@@ -1,8 +1,8 @@
 # OA
 ```
-    椤圭洰鍚嶏細鍔炲叕鑷姩鍖栫郴缁�
-    鎶�鏈爤锛歋SM锛孧aven锛孲hiro..
-    寮�鍙戣�咃細James
+    OA系统
+使用Maven管理项目，shiro权限管理框架，Activiti工作流，SSM框架
+    Coding By James
     
     hello 我修改了
 ```
